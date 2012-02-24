@@ -1,0 +1,17 @@
+Rspec
+
+real	0m19.400s
+user	0m19.224s
+sys	  0m0.136s
+
+Bacon
+
+real	0m17.101s
+user	0m17.036s
+sys	  0m0.056s
+
+Minitest
+
+real	0m17.363s
+user	0m17.277s
+sys	  0m0.077s
